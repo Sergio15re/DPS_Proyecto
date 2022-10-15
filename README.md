@@ -1,11 +1,12 @@
-# Sample Snack app
+Proyecto DPS2022
+Creacion de una apliacion para la materia Diseño y Programación de Software Multiplataforma de la Universidad Don Bosco, El Salvador
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Pre-requisitos de instalación: Para poder hacer uso de la presente herramienta se utilizara la plataforma de EXPO
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+Licencia: Este proyecto está bajo la licencia Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Que establece:
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Usted es libre de: Compartir — copiar y redistribuir el material en cualquier medio o formato Adaptar — remezclar, transformar y construir a partir del material La licenciante no puede revocar estas libertades en tanto usted siga los términos de la licencia
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+Autores: Sergio Isidro Rosas Carrillo RC131146
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Links Mock up: https://www.figma.com/file/3WJoS7zK7yfHePqtrlJDS0/kmiz-App-Shopping-Page?node-id=1%3A49064
